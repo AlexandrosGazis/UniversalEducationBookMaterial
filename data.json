@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Αλέξανδρος Γαζής",
+    "email": "alexgazis@example.eu"
+  },
+  {
+    "id": 2,
+    "name": "Ελένη Χαμαλιαδάκη",
+    "email": "eleni.ham@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Εριέττα Σταύρου",
+    "email": "erietta.stavrou@example.gr"
+  }
+]
